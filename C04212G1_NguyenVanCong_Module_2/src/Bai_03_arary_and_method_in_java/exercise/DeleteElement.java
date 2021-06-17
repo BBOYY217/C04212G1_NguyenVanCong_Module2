@@ -11,7 +11,7 @@ public class DeleteElement {
         int[] arr = new int[N];
 
         for (int i = 0; i < arr.length; i++) {
-            System.out.printf("nhập phần tử : ", i);
+            System.out.printf("nhập phần tử : " + i);
             arr[i] = Integer.parseInt(scanner.nextLine());
         }
 
