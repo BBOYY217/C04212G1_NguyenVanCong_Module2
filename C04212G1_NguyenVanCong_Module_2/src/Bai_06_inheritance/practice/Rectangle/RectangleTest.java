@@ -1,4 +1,6 @@
-package Bai_06_inheritance.practice;
+package Bai_06_inheritance.practice.Rectangle;
+
+import Bai_06_inheritance.practice.Rectangle.Rectangle;
 
 public class RectangleTest {
     public static void main(String[] args) {

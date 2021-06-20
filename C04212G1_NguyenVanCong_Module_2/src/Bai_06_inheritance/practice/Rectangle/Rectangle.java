@@ -1,6 +1,8 @@
-package Bai_06_inheritance.practice;
+package Bai_06_inheritance.practice.Rectangle;
 
-public class Rectangle extends Shape{
+import Bai_06_inheritance.practice.Shape.Shape;
+
+public class Rectangle extends Shape {
     private double width =1.0;
     private double length =1.0;
 

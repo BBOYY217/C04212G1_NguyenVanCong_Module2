@@ -1,4 +1,6 @@
-package Bai_06_inheritance.practice;
+package Bai_06_inheritance.practice.Circle;
+
+import Bai_06_inheritance.practice.Shape.Shape;
 
 public class Circle extends Shape {
     private double radius= 1.0;

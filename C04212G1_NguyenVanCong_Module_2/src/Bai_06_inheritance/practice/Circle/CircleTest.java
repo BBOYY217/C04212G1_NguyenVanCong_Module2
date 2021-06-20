@@ -1,4 +1,6 @@
-package Bai_06_inheritance.practice;
+package Bai_06_inheritance.practice.Circle;
+
+import Bai_06_inheritance.practice.Circle.Circle;
 
 public class CircleTest {
     public static void main(String[] args) {

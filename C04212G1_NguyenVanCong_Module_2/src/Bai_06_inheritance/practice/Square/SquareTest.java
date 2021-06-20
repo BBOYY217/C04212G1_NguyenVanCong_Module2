@@ -1,4 +1,6 @@
-package Bai_06_inheritance.practice;
+package Bai_06_inheritance.practice.Square;
+
+import Bai_06_inheritance.practice.Square.Square;
 
 public class SquareTest {
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-package Bai_06_inheritance.practice;
+package Bai_06_inheritance.practice.Shape;
+
+import Bai_06_inheritance.practice.Shape.Shape;
 
 public class ShapeTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Bai_06_inheritance.practice;
+package Bai_06_inheritance.practice.Shape;
 
 public class Shape {
     private String color="green";
