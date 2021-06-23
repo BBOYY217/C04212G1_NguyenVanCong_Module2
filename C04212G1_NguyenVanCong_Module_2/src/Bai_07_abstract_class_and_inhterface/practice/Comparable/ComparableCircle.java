@@ -1,7 +1,6 @@
 package Bai_07_abstract_class_and_inhterface.practice.Comparable;
 
-
-import Bai_05_advanced_programming_with_java.exercise.Circle;
+import Bai_06_inheritance.practice.Circle.Circle;
 
 public class ComparableCircle extends Circle
         implements Comparable<ComparableCircle>{
